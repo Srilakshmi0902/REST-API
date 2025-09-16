@@ -29,8 +29,8 @@ The API has the following endpoints:
 
 Example Use Cases:
 
-- You can use a tool like Postman or Curl to test the API endpoints.
-- You can use the API to build a simple user management system.
-- You can extend the API to include additional features, such as authentication and authorization.
+- We can use a tool like Postman or Curl to test the API endpoints.
+- We can use the API to build a simple user management system.
+- We can extend the API to include additional features, such as authentication and authorization.
 
 Overall, the API provides a basic example of how to build a RESTful API using Flask, and it can be used as a starting point for more complex projects.
